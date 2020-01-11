@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c89cb8c-5532-43cd-b673-03c80bba4c0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TestCases/VideoGameAPI/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/VideoGameAPI/TC1.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/VideoGameAPI/log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/VideoGameAPI/output.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/VideoGameAPI/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/output.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/report.html" beforeDir="false" />
-    </list>
+    <list default="true" id="1c89cb8c-5532-43cd-b673-03c80bba4c0b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python/rproject" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -68,7 +59,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -78,6 +71,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/robotApi" />
+      <path value="$PROJECT_DIR$/TestCases" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
@@ -85,9 +79,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="143" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578421877820" />
-    <state x="186" y="30" key="SettingsEditor" timestamp="1577705568784">
+    <state x="186" y="30" key="SettingsEditor" timestamp="1578685172887">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="186" y="30" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1577705568784" />
+    <state x="186" y="30" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1578685172887" />
   </component>
 </project>
